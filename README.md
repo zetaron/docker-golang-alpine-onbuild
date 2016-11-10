@@ -1,7 +1,7 @@
 # Supported tags and respective `Dockerfile` links
 
 - [`1.6.2-alpine-onbuild` (*Dockerfile*)](https://github.com/zetaron/docker-golang-alpine-onbuild/blob/1.6.2/Dockerfile)
-- [`1.7beta2-alpine-onbuild` (*Dockerfile*)](https://github.com/zetaron/docker-golang-alpine-onbuild/blob/1.7beta2/Dockerfile)
+- [`1.7.3-alpine-onbuild` (*Dockerfile*)](https://github.com/zetaron/docker-golang-alpine-onbuild/blob/1.7.3/Dockerfile)
 
 *Note*: For more versions of this image please check the base images store page [`golang`](https://store.docker.com/images/3e4f3e51-3930-4dd8-975c-517705d9d4e7)
 
